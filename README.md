@@ -44,7 +44,7 @@ After:
 ![image](https://user-images.githubusercontent.com/47415702/189298948-55e9306a-8a5e-4a82-b208-dbdc725365d8.png)
 
 ### Future Work:
-While using higher strokeWeight, it starts showing artifacts, for more minor strokeWeight it looks fine; this issue actually exists while using the immediate method, so for this, we need to look upon the stroke renderer much more closely.
+While using higher strokeWeight, it starts showing artifacts, for more minor strokeWeight it looks fine; this issue actually exists while using the thicker strokeWeight, so for this, we need to look upon the stroke renderer much more closely.
 
 ![image](https://user-images.githubusercontent.com/47415702/189299200-25d111b6-b135-4573-8659-f24f6ea8d67c.png)
 
